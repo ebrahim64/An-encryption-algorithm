@@ -1,0 +1,61 @@
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.exe.config
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.exe
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.pdb
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Form1.resources
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Form2.resources
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Properties.Resources.resources
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.csproj.GenerateResource.Cache
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.exe
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.pdb
+C:\Users\sex\Desktop\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.csprojResolveAssemblyReference.cache
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.exe.config
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.exe
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.pdb
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.exe
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.pdb
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.csprojResolveAssemblyReference.cache
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Form1.resources
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Form2.resources
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Properties.Resources.resources
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.csproj.GenerateResource.Cache
+C:\Users\sex\Desktop\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Form3.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.exe.config
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.exe
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.pdb
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.csprojResolveAssemblyReference.cache
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Form1.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Form2.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Form3.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Properties.Resources.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.csproj.GenerateResource.Cache
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Affine_cipher.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.casear_ciphertext.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.exe
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\bin\Debug\لخوارزميات.pdb
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.Diffe_Helman.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.RSA_Cepher.resources
+C:\Users\sex\Desktop\امنية معلومات الفيروسات\خوارزمة التشفير\لخوارزميات\لخوارزميات\obj\Debug\لخوارزميات.vigenere.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.csprojAssemblyReference.cache
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.Affine_cipher.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.casear_ciphertext.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.Diffe_Helman.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.Form1.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.Form2.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.Properties.Resources.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.RSA_Cepher.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.vigenere.resources
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.csproj.GenerateResource.cache
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.csproj.CoreCompileInputs.cache
+D:\DeskTop\الملافات المراد رفعها لل جيت هب\الجاهزة بعد التعدبل\Encryption algorithm\لخوارزميات\obj\Debug\لخوارزميات.exe
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.csprojAssemblyReference.cache
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.Affine_cipher.resources
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.casear_ciphertext.resources
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.Diffe_Helman.resources
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.Form1.resources
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.Form2.resources
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.Properties.Resources.resources
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.RSA_Cepher.resources
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.vigenere.resources
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.csproj.GenerateResource.cache
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahim\Desktop\encryption\Encryption Algorithms\Algorithm\obj\Debug\لخوارزميات.exe
